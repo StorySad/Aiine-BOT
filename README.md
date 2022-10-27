@@ -6,7 +6,7 @@
 
 Base WhatsApp Bot Multi Device
 <p align="center">
-	<img src="https://telegra.ph/file/b3fade3d8956054b93845.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://telegra.ph/file/b3fade3d8956054b93845.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">AkmalFauzan</h1>
 
