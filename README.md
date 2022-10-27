@@ -1,9 +1,14 @@
-# Aine-MD
+# AkmalFauzan
 
 
 # NOTE
 *pihak team developer dan team aine tidak beroperasi kembali karena script ini di perjual belikan*
 
+Base WhatsApp Bot Multi Device
+<p align="center">
+	<img src="https://telegra.ph/file/b3fade3d8956054b93845.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+</p>
+<h1 align="center">AkmalFauzan</h1>
 
 This script is free, if caught sold, this script will be deleted immediately.
 Don't forget to follow my github
